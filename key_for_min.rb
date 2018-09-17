@@ -3,5 +3,7 @@
 
 def key_for_min_value(name_hash)
   min_key = ""
-  min-age = 100 
+  min-age = 100
+  
+  name_hash.each do |key, value|
 end
